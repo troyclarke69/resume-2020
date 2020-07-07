@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name":"Troy Clarke",
+    "occupation":"Web/Data Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Experienced Developer with a demonstrated history of working in the computer software industry. Strong operations professional skilled in SQL Server Development, Web Design and Development, Business Process, Requirements Analysis, Enterprise Software, and Software Implementation.",
+    "contactmessage":"Please feel free to drop me a line.",
+    "email": "teclarke@rogers.com",
+    "phone": "365-777-8259",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"I live in Canada",
+      "zip": "(willing to relocate)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/troy-clarke-6752ba9",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/troyclarke69",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Proficiency levels of the following skillsets",
+    
+    "work":[
+      {
+        "company":"CherryTree Co.",
+        "title":"Lead Developer",
+        "years":"October 2014 - present",
+        "description":"SQL and Web development, Data integrations.",
+		    "highlights": [
+          {
+            "highlight": "Built data integrations in Dynamics GP to correct inventory costs and order pricing to accurately report earnings using SQL (queries, stored procedures, views, triggers and functions), SmartConnect and VB.NET."
+          },
+          {
+            "highlight": "Developed data migrations/integrations to consolidate sales data for four newly acquired companies, from QuickBooks to Dynamics CRM using Scribe, SSIS and SQL."
+          },
+          {
+            "highlight": "Created a mobile app for appointment bookings to grow revenue using Xamarin (XAML), C# and SQLite."
+          },
+          {
+            "highlight": "Provided technical support, development and training for data integrations that tracked customer and sales order information, using Scribe, SQL and Dynamics GP."
+          }
+        ]	
+      },
+      {
+        "company":"UXC Eclipse",
+        "title":"Sr. Programming Consultant",
+        "years":"September 2002 - February 2014",
+        "description":"Microsoft Certified Business Solutions Partner (Formerly Tectura)",
+        "highlights": [
+          {
+            "highlight": "Collaborated with clients, consultants and developers to analyze, design and develop custom business solutions to extend and streamline Microsoft Dynamics GP/CRM."
+          },
+          {
+            "highlight": "Using Visual Studio.NET (C#, VB and ASP), Dexterity, VBA and SQL, implemented functionality that saved time, increased productivity and boosted sales."
+          },
+          {
+            "highlight": "Using multiple data sources, built extensive data migrations and integrations responsible for the import and export of thousands of rows of data, amounting to millions of dollars, using integration tools such as Scribe, eConnect, SmartConnect and Integration Manager for the Dynamics GP and CRM platforms."
+          }
+        ]
+      }
+    ],
+	"education":[
+      {
+        "school":"triOS College",
+        "degree":"Web Tech Diploma",
+        "graduated":"2018",
+        "description":""
+      },
+      {
+        "school":"Sheridan College",
+        "degree":"Computer Programmer Diploma",
+        "graduated":"1999",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"SQL, HTML5, CSS, Javascript, C#.Net ",
+        "level":"80%"
+      },
+      {
+        "name":"ASP/MVC, React, Angular, Python, Typescript, JSON, VB.Net",
+        "level":"70%"
+      },
+	  {
+        "name":"MongoDB, PHP, Ajax, Photoshop, Illustrator",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coronavirus",
+        "category":"Angular, 3rd-party APIs, Google-Charts",
+        "image":"corona-now.jpg",
+        "url":"https://corona-now.netlify.app"
+      },
+      {
+        "title":"WikiShop - Online Guitar Shop",
+        "category":"React, Redux, Node/Express, MongoDB",
+        "image":"wikishop.jpg",
+        "url":"https://wikishop.herokuapp.com/"
+      },
+      {
+        "title":"Personal Blog",
+        "category":"Node/Express, MongoDB",
+        "image":"tblog.jpg",
+        "url":"https://troyclarke-blog.herokuapp.com/"
+      },
+      {
+        "title":"Surveyor - Online surveys",
+        "category":"Angular, Python (API), SQL",
+        "image":"surveyor.jpg",
+        "url":"https://surveyor-app.netlify.app"
+      },
+      {
+        "title":"Time Entry App",
+        "category":"PHP, AJAX, SQL (AccessId: BarbM, Password: 1003bm)",
+        "image":"ctmLink.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/ctm"
+      },
+	  {
+        "title":"Shopping Cart",
+        "category":"PHP, AJAX, SQL (Username: Guest, Password: guest)",
+        "image":"link6.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/goshop/"
+      },
+	  {
+        "title":"CherryTree Co.",
+        "category":"React, Ajax, JSON",
+        "image":"ctLink.jpg",
+        "url":"http://cherrytree.netlify.app"
+      },
+	    {
+        "title":".NET MVC -- COMING SOON!",
+        "category":"ASP.Net Core MVC, MongoDB",
+        "image":"win.jpg",
+        "url":"http://wikishop-api-dev.us-west-2.elasticbeanstalk.com/api/products"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
